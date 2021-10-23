@@ -30,9 +30,9 @@ let user = {
 const linksSocialMedia = {
   github: "allan-dalmarco",
   youtube: "allan-dalmarco",
-  facebook: "allan.dalmarco",
+  facebook: "allan.dalmarco.bnu",
   instagram: "allan.dalmarco",
-  twitter: "allan.dalmarco",
+  twitter: "allandalmarco",
 };
 
 // showMeSomething(linksSocialMedia.github);
